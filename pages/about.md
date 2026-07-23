@@ -14,8 +14,4 @@ credits: true
 
 ## About the Collection
 
-This is a sample of some of the engravings available in the Milton Collection at Western. Please see the full project site at: https://westernlibrsc.github.io/MiltonatWestern/. Please contact Western Archives and Special Collections for access to the Milton Collection at Western. 
-
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/).
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+This is a sample of some of the engravings available in the Milton Collection at Western. Please see the [full project site](https://westernlibrsc.github.io/MiltonatWestern/) for more information. Please contact [Western University Archives and Special Collections](https://www.lib.uwo.ca/archives/archivesandspecialcollectionsservices.html) for information on how to access the physical Milton Collection at Western.
